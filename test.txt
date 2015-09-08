@@ -1,1 +1,5 @@
-333
+333, a working directory is for working only , 
+use "git init" or "git clone " to create one working direcotry.
+
+a git repo created with "git init --bare" is for sharing ,   it have no working directory, 
+it is named normal with "xxx.git" .   
